@@ -1,2 +1,4 @@
 ﻿  Form letter.cpp
-  Form letter.vcxproj -> C:\Users\vladm\Documents\Projects\c++\Form letter\Debug\Form letter.exe
+C:\Users\vladm\Documents\Projects\c++\Form letter\Form letter\Form letter.cpp(5,6): error C2632: 'int' followed by 'double' is illegal
+C:\Users\vladm\Documents\Projects\c++\Form letter\Form letter\Form letter.cpp(5,13): error C2513: 'int': no variable declared before '='
+C:\Users\vladm\Documents\Projects\c++\Form letter\Form letter\Form letter.cpp(6,16): error C2062: type 'double' unexpected
