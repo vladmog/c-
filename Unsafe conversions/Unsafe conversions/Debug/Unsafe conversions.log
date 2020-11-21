@@ -1,0 +1,2 @@
+﻿  Unsafe conversions.cpp
+C:\Users\vladm\Documents\Projects\c++\Unsafe conversions\Unsafe conversions\Unsafe conversions.cpp(19,14): error C2397: conversion from 'double' to 'int' requires a narrowing conversion
