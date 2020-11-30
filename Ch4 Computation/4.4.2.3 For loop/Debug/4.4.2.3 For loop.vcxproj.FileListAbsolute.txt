@@ -1,0 +1,2 @@
+C:\Users\vladm\Documents\Projects\c++\Ch4 Computation\4.4.2.3 For loop\Debug\4.4.2.3 For loop.exe
+C:\Users\vladm\Documents\Projects\c++\Ch4 Computation\4.4.2.3 For loop\Debug\4.4.2.3 For loop.pdb

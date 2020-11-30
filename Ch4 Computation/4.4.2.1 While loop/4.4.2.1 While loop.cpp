@@ -12,7 +12,7 @@ int main()
 	int i = 0;
 	while (char('a' + i - 1) != 'z')
 	{
-		cout << char('a' + i) << "\t" << i << "\n";
+		cout << char('a' + i) << "\t" << 'a' + i << "\n";
 		i++;
 	}
 }
